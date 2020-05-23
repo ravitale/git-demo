@@ -1,1 +1,3 @@
 Please follow the following instructions to setup the project.
+Adding instruction.
+Adding some more instructions.
